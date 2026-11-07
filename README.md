@@ -1,9 +1,9 @@
 # Kotlin Click Shrink Effect Library
 ![](https://komarev.com/ghpvc/?username=click-shrink-effect-android&color=55acb7&logo=Github&label=Views)
-[![](https://jitpack.io/v/muratozturk5/ClickShrinkEffectLibrary.svg)](https://jitpack.io/#muratozturk5/ClickShrinkEffectLibrary)
-[![](https://jitpack.io/v/muratozturk5/ClickShrinkEffectLibrary/month.svg)](https://jitpack.io/#muratozturk5/ClickShrinkEffectLibrary)
+[![](https://jitpack.io/v/muratozturkdev/ClickShrinkEffectLibrary.svg)](https://jitpack.io/#muratozturkdev/ClickShrinkEffectLibrary)
+[![](https://jitpack.io/v/muratozturkdev/ClickShrinkEffectLibrary/month.svg)](https://jitpack.io/#muratozturkdev/ClickShrinkEffectLibrary)
 
-![App Screenshot](https://github.com/muratozturk5/ClickShrinkEffectLibrary/blob/master/Screenshot/shrink.gif)
+![App Screenshot](https://github.com/muratozturkdev/ClickShrinkEffectLibrary/blob/master/Screenshot/shrink.gif)
 
 Kotlin View Click Shrink Effect
 
@@ -24,7 +24,7 @@ allprojects {
 - Step 2. Add the dependency
 ```
 dependencies {
-         implementation 'com.github.muratozturk5:ClickShrinkEffectLibrary:1.2.0'
+         implementation 'com.github.muratozturkdev:ClickShrinkEffectLibrary:1.2.0'
 }
 ```
 
